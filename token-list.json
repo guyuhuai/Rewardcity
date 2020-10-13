@@ -1,0 +1,25 @@
+{
+  "name": "Rewardcity",
+  "logoURI": "https://ftp.bmp.ovh/imgs/2020/10/49aaad3bc576bec3.png",
+  "keywords": [
+      "defi",
+      "DEFI",
+      "Reward"
+    ],
+    "timestamp": "2020-10-13T01:40:34.305Z",
+    "tokens": [
+      {
+      "chainId": 1,
+      "address": "0x1a8e6db6ba4e86e51fcd7f4286c7fa47062495e1",
+      "name": "Rewardcity",
+      "symbol": "Reward",
+      "decimals": 18,
+      "logoURI": "https://ftp.bmp.ovh/imgs/2020/10/49aaad3bc576bec3.png"
+      }
+    ],
+    "version": {
+      "major": 0,
+      "minor": 0,
+      "patch": 0
+    }
+}
